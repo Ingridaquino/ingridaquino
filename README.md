@@ -6,7 +6,9 @@
 - 🌱 Estudando HTML & CSS
 - 😄 Pronouns: ela/dela
 
--->
+
+##
+
 <div align="center">
   <a href="https://github.com/Ingridaquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridaquino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +21,7 @@
 </div>
 
   
-  ###
+  ##
   
   <div>  
     <a href = "mailto:ingridaquinosoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
