@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando HTML & CSS
+- 🌱 Estudando Javascript & React 
 - 😄 Pronouns: ela/dela
 
 
