@@ -5,7 +5,7 @@
 
 - 🌱 Estudando React 
 
-- [Portfólio](https://myforlio.netlify.app/)
+- [Portfólio](mylio.netlify.app)
 
 
 ##
