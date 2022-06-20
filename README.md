@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando Javascript & React 
+- 🌱 Estudando React 
 
 - [Portfólio](https://myforlio.netlify.app/)
 
