@@ -27,6 +27,14 @@
   <img align="center" alt="Ingrid-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Ingrid-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Ingrid-MATERIALUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+    <img align="center" alt="Ingrid-TYPESCRIP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Ingrid-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Ingrid-STYLED-COMPONENT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponent/styledcomponent-original.svg">
+  
+  
+  
+
+
 
   
   
