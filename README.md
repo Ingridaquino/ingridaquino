@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando React 
+- 🌱 Estudando Vue.js
 
 - [Portfólio](https://mylio.netlify.app/)
 
